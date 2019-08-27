@@ -1,6 +1,6 @@
 
 <?php
-$link = mysqli_connect("mysql:host=localhost", "dbname=integgle"", "root");
+$link = mysqli_connect("mysql:host=localhost", "dbname=integgle"", "integgle","kc2s^+U1");
 
 if (!$link) {
     echo "Error: Falha ao conectar-se com o banco de dados MySQL." . PHP_EOL;

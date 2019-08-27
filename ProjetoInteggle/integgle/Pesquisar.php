@@ -4,8 +4,8 @@ require_once("admin/conexao/conecta.php");
 require("admin/functions/limita-texto.php");
 
 $servidor = "localhost";
-    $usuario = "root";
-    $senha = "";
+    $usuario = "integgle";
+    $senha = "kc2s^+U1";
     $dbname = "integgle";
     //Criar a conexao
     $conn = mysqli_connect($servidor, $usuario, $senha, $dbname);
